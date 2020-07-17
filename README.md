@@ -8,6 +8,8 @@ Complete studying material -
 - Week 7. PHP basics: variables, control structures
 - Week 8. PHP Data Types. PHP Functions. PHP Sessions.
 
+Keep in mind that you trying to demonstrate what you have learned in this course.  When you are drawing on knowledge from other sources, it is your responsibility to document the why and cite the sources (even if it is your own past work!)
+
 ## Requirements
 
 **Complete Casino Craps game (PHP version)**
